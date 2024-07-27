@@ -1,0 +1,180 @@
+#color{
+    background-color: black;
+}
+#color a{
+    color: orange;
+    font-family: Ga Maamli;
+}
+ul li{
+    margin: 0px 10px;
+    
+}
+#new a{
+    color:orange;
+    font-family: Baskervville SC;
+}
+
+#new a:hover{
+    color:blue;
+
+}
+#back{
+    background-image: url(./images/cathedral-6830526_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:100vh;
+    background-attachment: fixed;
+}   
+#back h2{
+    text-align: center;
+    padding-top: 7%;
+    color: rgba(0, 0, 0, 0.811);
+    opacity: 0.5;
+    font-family: Ga Maamli;
+   
+}
+#tt{
+    color: orange;
+    font-family: Baskervville SC;
+    font-size: x-large;
+}
+#yy{
+    font-family: Baskervville SC;
+    text-align: center;
+    color:orange;
+    background-color: black;
+
+}
+#uu:hover{
+    color: azure;
+    
+   
+}
+.ll h2{
+    text-align: center;
+    font-family: Baskervville SC;
+    color:wheat;
+    padding-right: 80px;
+}
+.ll{
+    padding-left: 6%;
+   background-color:black;
+  
+    
+    
+}
+.dd{
+    font-family: Baskervville SC;
+    font-size: smaller;
+   
+}
+#barca{
+    text-align: center;
+    color: wheat;
+    font-family: Baskervville SC;
+    font-size: larger; 
+}
+.fug{
+    padding-top: 2%;
+   
+   height: 80vh;
+  background-image: url(./images/sunset2.jpg);
+  background-size: contain;
+   
+   
+}
+@media(max-width:540px){
+    .ll{
+        padding-left: 80px;
+    }
+    .ll h2{
+        padding-right: 80px;
+    }
+    #tre{
+        padding-left: 130px;
+        
+    }
+    #stylish{
+        padding-left:15px;
+
+    }
+    .fujj{
+        margin-left: 15%;
+        
+        
+    }
+    .nextapar img{
+        padding-left: 5%;
+    }
+    
+}
+#fr{
+   margin-top: 10%;
+}
+
+
+#jh{
+    font-family: Kalnia Glaze;
+}
+.nextapar{
+   background-color:rgb(58, 53, 56);
+   
+}
+.nextapar,h3,h6{
+    color: aliceblue;
+}
+
+
+#book:hover{
+    color: aliceblue;
+    background-color: brown;
+}
+#bookb{
+
+    text-align: center;
+    background-color: black;
+  
+    
+}
+.nextapar h2{
+    text-align: center;
+    font-size:30px;
+    font-family: Baskervville SC;
+    color:bisque
+}
+#kill h3,p{
+    color: aliceblue;
+    text-align: center;
+    
+    font-family: Kalnia Glaze;
+}
+.footter{
+    color: aliceblue;
+    text-align: center;
+   
+}
+#form{
+    font-family: Baskervville SC;
+    color: orange;
+}
+#cont{
+    background-color: rgb(0, 0, 0);
+}
+#but{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+  
+
+
+  
+  
+  
